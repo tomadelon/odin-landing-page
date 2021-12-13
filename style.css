@@ -162,7 +162,8 @@ h1 {
 }
 
 button:hover {
-    background-color: black;
+    background-color: white;
+    color: #3882F6;
 }
 
 .footer {
